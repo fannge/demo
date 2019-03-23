@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 
 public class Test {
 	public static void main(String[] args) {
-		test3();
+		test2();
 	}
 	
 	static void test4 () {
